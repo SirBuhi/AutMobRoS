@@ -1,0 +1,21 @@
+# ninja log v5
+14	47	0	copyHalConfig	ba988dddd7d1e96a
+51	8213	1651560853125754300	CMakeFiles/template_project.dir/src/MyRobotSafetyProperties.cpp.o	5462bbde00d31cb1
+48	9169	1651560854095390800	CMakeFiles/template_project.dir/src/ControlSystem.cpp.o	8435568a2699748e
+53	10667	1651560855594877300	CMakeFiles/template_project.dir/src/main.cpp.o	2515813d3ab46daf
+10689	11861	1651560856792247000	template_project	e4701bfa1e584dcf
+11	39	0	copyHalConfig	ba988dddd7d1e96a
+47	5564	1651579316485745300	CMakeFiles/Buhis_EEROS_Project.dir/src/MyRobotSafetyProperties.cpp.o	6f25a38e177c0e55
+44	6747	1651579317673475300	CMakeFiles/Buhis_EEROS_Project.dir/src/ControlSystem.cpp.o	591080ec1477b1ba
+52	8597	1651579319520589000	CMakeFiles/Buhis_EEROS_Project.dir/src/main.cpp.o	c659b37501682944
+8604	10253	1651579321173049500	Buhis_EEROS_Project	5d39108af47f561d
+16	41	0	copyHalConfig	ba988dddd7d1e96a
+41	3727	1651579716790676400	CMakeFiles/Buhis_EEROS_Project.dir/src/main.cpp.o	c659b37501682944
+3737	4645	1651579717716855800	Buhis_EEROS_Project	5d39108af47f561d
+7	416	1651580022260776600	build.ninja	ce68130b1e68fb27
+16	49	0	copyHalConfig	ba988dddd7d1e96a
+52	5625	1651580028091167100	CMakeFiles/Template_project.dir/src/MyRobotSafetyProperties.cpp.o	56b5b0c10b12eb1
+49	6170	1651580028635728100	CMakeFiles/Template_project.dir/src/ControlSystem.cpp.o	fa6d7b637bfe56a4
+56	7265	1651580029723693100	CMakeFiles/Template_project.dir/src/main.cpp.o	df15f49afd571179
+7273	8807	1651580031253064500	Template_project	2d0502f1ef2b2a1b
+41	78	0	copyHalConfig	ba988dddd7d1e96a
